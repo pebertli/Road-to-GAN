@@ -12,3 +12,4 @@ What Is an Artificial Neural Network, how it works, and how to train it using so
 This second part will introduce the revolutionary Convolutional Neural Networks, showing, with applications and demos, how it works and why it is responsible for the new R&D boom in Neural Networks.
 
 
+https://github.com/pebertli/Road-to-GAN
